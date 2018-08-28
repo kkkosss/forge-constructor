@@ -5,7 +5,7 @@ import Footer from './components/Footer'
 import '../css/index.scss'
 
 ReactDOM.render(
-  <div>
+  <div className='container'>
     <Header />
     <Footer/>
   </div>
