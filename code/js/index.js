@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from "react-dom";
+import Header from'./components/Header'
 
 ReactDOM.render(
-  <div>Hello world</div>, 
+  <Header />, 
   document.getElementById('fieldToShow')
 );
