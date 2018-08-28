@@ -6,8 +6,8 @@ import '../css/index.scss'
 
 ReactDOM.render(
   <div>
-  <Header />
-  <Footer/>
+    <Header />
+    <Footer/>
   </div>
   , 
   document.getElementById('fieldToShow')
